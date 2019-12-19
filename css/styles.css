@@ -1,0 +1,129 @@
+/* CSS Document */
+body {
+	font-size:16px;
+	color: #191919;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav{
+	background-color: #BDBDBD;
+	
+}
+
+#nav-list{
+	text-align: center;
+}
+
+
+h1{
+	font-family: 'Lora', serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 1.5em;
+	margin-top: 30px;
+}
+
+
+
+#c1 {
+	border: 1px solid black;
+	background-color:#9E9E9E;
+	height:1000px;
+	float: left;
+	margin: 0 auto 15px auto;
+	overflow:hidden;
+}
+
+
+#c2{
+	border: 1px solid black;
+	background-color: #9E9E9E;
+	height:1000px;
+	float: left;
+	margin: 0 auto 15px auto;
+	overflow:hidden;
+	
+}
+
+
+#c3{
+	border: 1px solid black;
+	background-color:#9E9E9E;
+	height:1000px;
+	float: left;
+	margin: 0 auto 15px auto;
+	overflow: hidden;	
+	
+}
+
+.row {
+	margin: 15px;
+	
+}
+
+.titlebox{
+	font-family: 'Lora', serif;
+	margin-top: 5px;
+	
+}
+.p1{
+	font-family: 'Oxygen', sans-serif;
+	margin: 10px;
+	overflow: hidden;
+		
+}
+	
+* {
+  
+	box-sizing: border-box;
+}
+
+
+
+@media (max-width: 479px) {
+	body{
+		font-size: 3.8vw;
+	}
+	.titlebox{
+		font-size: 4.7vw;
+		font-weight:700;
+		
+	}
+}
+ 
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
